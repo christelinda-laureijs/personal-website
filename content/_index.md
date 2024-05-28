@@ -5,27 +5,15 @@ design:
 sections:
 - block: hero
   content:
-    announcement:
-      link:
-        text: Read more
-        url: /blog/
-      text: Announcing the release of version 1.
-    primary_action:
-      icon: rocket-launch
-      text: Get Started
-      url: https://hugoblox.com/templates/
-    secondary_action:
-      text: Read the docs
-      url: https://docs.hugoblox.com
-    text: "\U0001F9F1 EASY. FREE (OPEN SOURCE). NO-CODE  \U0001F9F1"
-    title: Build Your Landing Pages with Hugo Blox
+    text: "Mount Allison University"
+    title: Christelinda Laureijs
   design:
     background:
-      color: navy
+      color: red
       image:
-        filename: bg-triangles.svg
+        filename: Lab-Rats-Hero.png
         filters:
-          brightness: 0.5
+          brightness: 0.8
     css_class: dark
     spacing:
       margin:
