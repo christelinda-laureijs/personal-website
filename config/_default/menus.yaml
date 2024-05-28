@@ -9,9 +9,12 @@ main:
   - name: Projects
     url: /#projects
     weight: 20
-  # - name: Solutions
-  #   url: /#solutions
-  #   weight: 30
+  - name: News
+    url: /#news
+    weight: 30
+  - name: Photos
+    url: /#photos
+    weight: 40
   # - name: Resources
   #   weight: 40
   #   hasChildren: true
