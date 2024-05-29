@@ -1,8 +1,8 @@
 ---
 _build:
-  render: never
+    render: always
 cascade:
-  _build:
-    list: always
-    render: never
+   _build:
+     list: always
+     render: always
 ---

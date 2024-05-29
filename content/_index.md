@@ -28,13 +28,12 @@ sections:
       - 0
 - block: markdown
   content:
-      title: I am a researcher, R coder, artist, and pianist
-      text: Recent projects include...
-  id: overview
+    title: I am a researcher, R coder, artist, and pianist
+    text: My work focuses on the effect of insulin on neurons in the dorsomedial hypothalamus. ![image](thesis-cover.png)
 - block: markdown
   content:
-      title: News
-      text: Recently, I ...
+      title: Projects
+      text: ![image](thesis-cover.png)
   id: news
 - block: markdown
   content:
