@@ -7,7 +7,7 @@ main:
     url: /#top
     weight: 10
   - name: Projects
-    url: /#projects
+    url: /#overview
     weight: 20
   - name: News
     url: /#news
@@ -17,9 +17,3 @@ main:
     weight: 40
   - name: Blog
     url: blog/
-  # - name: Resources
-  #   weight: 40
-  #   hasChildren: true
-  # - parent: Resources
-  #   name: Blog
-  #   url: blog/

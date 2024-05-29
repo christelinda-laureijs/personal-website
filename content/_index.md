@@ -28,7 +28,7 @@ sections:
       - 0
 - block: markdown
   content:
-      title: I am a researcher, coder, artist, and pianist
+      title: I am a researcher, R coder, artist, and pianist
       text: Recent projects include...
   id: overview
 - block: markdown
