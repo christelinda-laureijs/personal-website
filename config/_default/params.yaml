@@ -41,7 +41,7 @@ header:
     show_theme_chooser: false
 
 # Site footer
-footer:
+#footer:
   #copyright:
     #notice: '© 2024 Christelinda Laureijs'
 
