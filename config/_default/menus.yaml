@@ -7,10 +7,10 @@ main:
     url: /#top
     weight: 10
   - name: Projects
-    url: /#overview
+    url: /#projects
     weight: 20
   - name: News
-    url: /#news
+    url: /blog/
     weight: 30
   - name: Photos
     url: /#photos
