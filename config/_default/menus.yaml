@@ -9,9 +9,9 @@ main:
   - name: Projects
     url: /#projects
     weight: 20
-  - name: News
-    url: /blog/
+  - name: Contact
+    url: /#contact
     weight: 30
-  - name: Photos
-    url: /#photos
-    weight: 40
+  # - name: Blog
+  #   url: /blog/
+  #   weight: 40
