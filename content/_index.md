@@ -7,18 +7,19 @@ sections:
 - block: hero
   id: hero
   content:
-    text: "Neurophysiology | Appetite Regulation | Endocrinology"
-    title: Christelinda Laureijs
+    text: |
+     <p class="mt-6 leading-8" style="font-size:1.6rem; color:black">Neurophysiology | Appetite Regulation | Endocrinology</p>
+    title: <h1 class="font-bold tracking-tight" style="font-size:4rem; color:black">Christelinda Laureijs</h1>
   design:
     background:
       image:
-        filename: Lab-Rats-Hero.png
+        filename: Rat-hero-small.svg
         filters:
-          brightness: 0.5
-        text_color_light: true
-        size: cover
+          brightness: 1
+        #text_color_light: true
+        #size: cover
         parallax: false
-    css_class: dark
+    #css_class: dark
     spacing:
       margin:
       - 0
@@ -105,8 +106,10 @@ sections:
 
   design:
     background:
-      color: white
-      text_color_light: false
+      image:
+        filename: Rat-Laptop.svg
+        size: cover
+        parallax: false
       
 
 - block: markdown
@@ -119,6 +122,7 @@ sections:
         cslaureijs@gmail.com
         
         <img src="avatar-round-png.png" alt="Photo of Christelinda Laureijs" width="300" height="300" style="display: block; margin-left: auto; margin-right: auto; width: 50%">
+
 
 title: Home
 type: landing
