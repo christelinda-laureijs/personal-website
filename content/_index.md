@@ -14,12 +14,7 @@ sections:
     background:
       image:
         filename: Lab-Rats-Hero-white-top.png
-        filters:
-          brightness: 1
-        #text_color_light: true
-        #size: cover
         parallax: false
-    #css_class: dark
     spacing:
       margin:
       - 0
