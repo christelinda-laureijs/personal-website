@@ -13,7 +13,7 @@ sections:
   design:
     background:
       image:
-        filename: Rat-hero-small.svg
+        filename: Lab-Rats-Hero-white-top.png
         filters:
           brightness: 1
         #text_color_light: true
@@ -27,9 +27,9 @@ sections:
       - 0
       - 0
       padding:
-      - 20
       - 0
-      - 20
+      - 0
+      - 0
       - 0
       
       
@@ -43,7 +43,7 @@ sections:
     background:
       image:
         filename: Green-neuron.svg
-        parallax: true
+        parallax: false
         position: right
         
         
@@ -91,7 +91,7 @@ sections:
     background:
       image:
         filename: 20240531-Watercolour-banner.svg
-        parallax: true
+        parallax: false
         position: center
 
 - block: markdown
