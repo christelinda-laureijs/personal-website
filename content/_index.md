@@ -8,7 +8,7 @@ sections:
   id: hero
   content:
     text: |
-     <p class="mt-6 leading-8" style="font-size:1.6rem; color:black">Neurophysiology | Appetite Regulation | Endocrinology</p>
+     <p class="mt-6 leading-8" style="font-size:1.6rem; color:black">MSc. Student (Biology) at Mount Allison University</p>
     title: <h1 class="font-bold tracking-tight" style="font-size:4rem; color:black">Christelinda Laureijs</h1>
   design:
     background:
@@ -31,7 +31,7 @@ sections:
 - block: markdown
   id: intro
   content:
-    title: I am a researcher, R coder, and artist
+    title: I am a researcher, coder, and artist
     text: | 
       I am a master's student working under the supervision of Dr. Karen Crosby at Mount Allison University. My work focuses on the effect of insulin on neurons in the dorsomedial hypothalamus (DMH), which is a brain region critical for appetite regulation.
   design:
@@ -73,7 +73,7 @@ sections:
   content:
       text: |
         <h3>Cranky Bee Art</h3>
-        A few years ago, I started an online business featuring my watercolour art and nature photography. It grew quickly and little did I know that this fun side project would soon become a...
+        A few years ago, I started an online business featuring my watercolour art and nature photography. It grew quickly and little did I know that this fun side project would soon become a...  
         
         
         Visit <a href="https://crankybeeart.com/" target="_blank" title="Click here to visit the Cranky Bee Art website!">Cranky Bee Art</a>!
@@ -114,10 +114,16 @@ sections:
       text: |
         Let's connect! If you have ideas for collaboration, knowledge of useful R scripts or packages, or ideas for what card I should paint next, I would love to hear from you.
         
-        cslaureijs@gmail.com
-        
         <img src="avatar-round-png.png" alt="Photo of Christelinda Laureijs" width="300" height="300" style="display: block; margin-left: auto; margin-right: auto; width: 50%">
+        
+        <p style="text-align: center">cslaureijs@gmail.com</p>
 
+- block: markdown
+  id: cv
+  content:
+      title: CV
+      text: |
+          Here's a <a href="Laureijs-CV.pdf" target="_blank" title="Click here to open a my CV as a PDF file">link to my CV.</a>
 
 title: Home
 type: landing

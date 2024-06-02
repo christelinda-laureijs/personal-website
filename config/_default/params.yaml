@@ -31,13 +31,13 @@ header:
   navbar:
     enable: true
     blox: "navbar"
-    align: "center"
+    align: "right"
     fixed_to_top: true
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
-    show_search: true
+    show_search: false
     show_theme_chooser: false
 
 # Site footer
