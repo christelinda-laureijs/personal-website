@@ -31,7 +31,7 @@ sections:
 - block: markdown
   id: intro
   content:
-    title: I am a researcher, coder, and artist
+    title: <h2 class="font-bold tracking-tight" style="font-size:2.7rem; color:black; line-height:125%">I am a researcher, coder, and artist</h2>
     text: | 
       I am a master's student working under the supervision of Dr. Karen Crosby at Mount Allison University. My work focuses on the effect of insulin on neurons in the dorsomedial hypothalamus (DMH), which is a brain region critical for appetite regulation.
   design:
@@ -45,13 +45,13 @@ sections:
 - block: markdown
   id: projects
   content:
-      title: Projects
+      title: Things I've been working on
   design:
     background:
       color: white
       text_color_light: false
     spacing:
-      padding: ["25px", "0", "0px", "0"]
+      padding: ["25px", "0", "10px", "0"]
   
 - block: markdown
   id: honours
@@ -60,7 +60,7 @@ sections:
         <h3>Does insulin act in the DMH?</h3>
         For my honours project, I asked if insulin binds to DMH neurons, and if so, how that may affect their activity. I compared synaptic transmission (a measure of communication between neurons) and action potentials (a measure of neuronal excitability) before and after exposing DMH neurons to insulin.
         <a href="https://github.com/christelinda-laureijs/honours-thesis" target="_blank" title="Explore the GitHub project!"><img src="Methods-schematic.png"></a>
-        I found that insulin <b>decreases</b> both excitatory synaptic transmission and neuronal excitability in DMH neurons. If you're interested in reading more, you can explore <a href="https://github.com/christelinda-laureijs/honours-thesis" target="_blank" title="Explore the GitHub project!">the project page on GitHub</a>!
+        I found that insulin <b>decreases</b> both excitatory synaptic transmission and neuronal excitability in DMH neurons. If you're interested in reading more, you can explore <a href="https://github.com/christelinda-laureijs/honours-thesis" target="_blank" title="Explore the GitHub project!">the project page on GitHub</a> and <a href="https://github.com/christelinda-laureijs/honours-thesis/blob/main/Thesis/Thesis.pdf" target="_blank" title="Read my thesis as a PDF file">read my thesis!</a>
   design:
     background:
       image:
@@ -73,10 +73,14 @@ sections:
   content:
       text: |
         <h3>Cranky Bee Art</h3>
-        A few years ago, I started an online business featuring my watercolour art and nature photography. It grew quickly and little did I know that this fun side project would soon become a...  
         
+        A few years ago, I started an online business featuring my watercolour art and nature photography. It grew quickly and little did I know that this fun project would soon become a big part of my artistic life. I have lots of fun imagining animals like mice, bears and giraffes doing human activities and celebrating special occasions together. 
         
-        Visit <a href="https://crankybeeart.com/" target="_blank" title="Click here to visit the Cranky Bee Art website!">Cranky Bee Art</a>!
+        <a href="https://crankybeeart.com/" target="_blank" title="Click here to visit the Cranky Bee Art website!">Cranky Bee Art</a> specializes in greeting cards for adoption day anniversaries, birthdays, and holidays, as well as creating small moments that make every day special. I'm particularly proud of my "Just Because" series to send to people - well, just because you want to check in and let them know that you're thinking of them.
+        
+        <div style="text-align:center">
+        <button type="button" style="background-color:#f5f5f5; color:white; padding: 15px 32px; cursor:pointer; border-radius: 15px"><a href="https://crankybeeart.com/" target="_blank" title="Click here to visit the Cranky Bee Art website!">Visit Cranky Bee Art!</a></button>
+        </div>
 
 - block: markdown
   id: artpicture
@@ -93,11 +97,9 @@ sections:
   id: coding
   content:
       text: |
-        <h3>R coding projects</h3>
+        <h3>Coding Projects</h3>
         
-        I always have some sort of coding project on the go. My most recent projects have included creating an RMarkdown/LaTeX thesis template, coding a website (this one!) and developing scripts to analyze the recordings that we collect in the lab.
-        
-        I'm trying to create a script to identify local peaks in a recording.
+        <p style="margin-bottom:20rem;">I always have some sort of coding project on the go. I code most frequently in R & RMarkdown, but I also like to build things with LaTeX and HTML. My most recent projects have included creating an RMarkdown/LaTeX thesis template, coding a website (this one!) and developing R scripts to analyze the recordings that we collect in the lab.</p>
 
   design:
     background:
@@ -123,7 +125,7 @@ sections:
   content:
       title: CV
       text: |
-          Here's a <a href="Laureijs-CV.pdf" target="_blank" title="Click here to open a my CV as a PDF file">link to my CV.</a>
+          Don't go yet! If you want to read more about me, here's <a href="Laureijs-CV.pdf" target="_blank" title="Click here to open a my CV as a PDF file">my CV.</a>
 
 title: Home
 type: landing

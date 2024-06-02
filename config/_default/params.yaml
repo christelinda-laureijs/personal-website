@@ -41,10 +41,10 @@ header:
     show_theme_chooser: false
 
 # Site footer
-#footer:
-  #copyright:
-    #notice: '© 2024 Christelinda Laureijs'
-
+footer:
+  copyright:
+    notice: 'I made this site with the *blogdown* package, Hugo and Netlify.
+    If you want to learn more about how it was made, or adapt it, check out [its repository on GitHub!](https://github.com/christelinda-laureijs/personal-website)'
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
