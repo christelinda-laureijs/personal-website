@@ -57,7 +57,7 @@ sections:
   id: honours
   content:
       text: |
-        <h3>Does insulin act in the DMH?</h3>
+        <h3>Honours work: Does insulin act in the DMH?</h3>
         For my honours project, I asked if insulin binds to DMH neurons, and if so, how that may affect their activity. I compared synaptic transmission (a measure of communication between neurons) and action potentials (a measure of neuronal excitability) before and after exposing DMH neurons to insulin.
         <a href="https://github.com/christelinda-laureijs/honours-thesis" target="_blank" title="Explore the GitHub project!"><img src="Methods-schematic.png"></a>
         I found that insulin <b>decreases</b> both excitatory synaptic transmission and neuronal excitability in DMH neurons. If you're interested in reading more, you can explore <a href="https://github.com/christelinda-laureijs/honours-thesis" target="_blank" title="Explore the GitHub project!">the project page on GitHub</a> and <a href="https://github.com/christelinda-laureijs/honours-thesis/blob/main/Thesis/Thesis.pdf" target="_blank" title="Read my thesis as a PDF file">read my thesis!</a>
@@ -68,8 +68,35 @@ sections:
         parallax: false
         position: left
 
+
+
+- block: markdown
+  id: coding
+  content:
+      text: |
+        <h3>Coding Projects</h3>
+        
+        <p style="margin-bottom:20rem;">I always have some sort of coding project on the go. I code most frequently in R & RMarkdown, but I also like to build things with LaTeX and HTML. My most recent projects have included creating an RMarkdown/LaTeX thesis template, coding a website (this one!) and developing R scripts to analyze the recordings that we collect in the lab.</p>
+
+  design:
+    background:
+      image:
+        filename: Rat-Laptop.svg
+        size: cover
+        parallax: false
+
 - block: markdown
   id: art
+  content:
+      text: |
+        <h3>Scientific illustrations</h3>
+        
+        Art, graphic design, and typography are key interests of mine. I particularly enjoy using art to improve understanding of scientific concepts. Most of my diagrams are featured in my presentations, but I also create stand-alone scientific illustrations and figures. My main illustration tools are Inkscape (a free, open-source vector illustrator), *ggplot2*, and watercolour.
+        
+
+
+- block: markdown
+  id: crankybeeart
   content:
       text: |
         <h3>Cranky Bee Art</h3>
@@ -91,23 +118,7 @@ sections:
       image:
         filename: 20240531-Watercolour-banner.svg
         parallax: false
-        position: center
-
-- block: markdown
-  id: coding
-  content:
-      text: |
-        <h3>Coding Projects</h3>
-        
-        <p style="margin-bottom:20rem;">I always have some sort of coding project on the go. I code most frequently in R & RMarkdown, but I also like to build things with LaTeX and HTML. My most recent projects have included creating an RMarkdown/LaTeX thesis template, coding a website (this one!) and developing R scripts to analyze the recordings that we collect in the lab.</p>
-
-  design:
-    background:
-      image:
-        filename: Rat-Laptop.svg
-        size: cover
-        parallax: false
-      
+        position: center     
 
 - block: markdown
   id: contact
