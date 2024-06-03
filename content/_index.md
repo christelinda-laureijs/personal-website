@@ -91,9 +91,19 @@ sections:
       text: |
         <h3>Scientific illustrations</h3>
         
-        Art, graphic design, and typography are key interests of mine. I particularly enjoy using art to improve understanding of scientific concepts. Most of my diagrams are featured in my presentations, but I also create stand-alone scientific illustrations and figures. My main illustration tools are Inkscape (a free, open-source vector illustrator), *ggplot2*, and watercolour.
+        Art, graphic design, and typography are key interests of mine. I particularly enjoy using art to improve understanding of scientific concepts. Most of my diagrams are featured in my presentations, but I also create stand-alone scientific illustrations and figures. My main illustration tools are [Inkscape](https://inkscape.org/) (a free, open-source vector illustrator), *ggplot2*, and watercolour. I'm also familiar with using tools like [Mol*](https://molstar.org/viewer/) to generate and modify 3D protein structures.  
         
-
+- block: markdown
+  id: artpicture
+  content:
+    text: |
+      <br></br>
+  design:
+    background:
+      image:
+        filename: Scientific-art-banner.svg
+        parallax: false
+        position: center
 
 - block: markdown
   id: crankybeeart
@@ -110,7 +120,7 @@ sections:
         </div>
 
 - block: markdown
-  id: artpicture
+  id: beeartpicture
   content:
     text: 
   design:

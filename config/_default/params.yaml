@@ -7,7 +7,7 @@
 appearance:
   mode: light
   color: purple
-  
+
 # SEO
 marketing:
   seo:
@@ -36,7 +36,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "icon.png"
     show_search: false
     show_theme_chooser: false
 
