@@ -1,7 +1,5 @@
-# personal-website
-Personal website of Christelinda Laureijs
-<<<<<<< HEAD
+# Introduction
 
-Work in progress from May 28, 24
-=======
->>>>>>> aafe252080463fbc3de8d0a120cd6a4f2821096d
+This is the repository for my personal website.
+
+The goal of this website is to better manage my online presence and to present my academic work  all in one place. I also wanted to build and maintain my site independent of external content management systems. The website uses *blogdown* and the *theme landing page* of *HugoBlox*. It will soon be deployed through *Netlify*.
