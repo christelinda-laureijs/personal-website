@@ -76,7 +76,7 @@ sections:
   design:
     background:
       image:
-        filename: Insulin.svg
+        filename: insulin.svg
         parallax: false
         position: left
 
