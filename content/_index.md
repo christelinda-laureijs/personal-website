@@ -138,7 +138,7 @@ sections:
   design:
     background:
       image:
-        filename: 20240531-Watercolour-banner.svg
+        filename: watercolour-banner.svg
         parallax: false
         position: center     
 
