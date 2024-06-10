@@ -7,3 +7,8 @@ h2 {padding-left: 10px;
 }
 
 .blox-markdown {padding: 2rem 0 2rem 0}
+
+
+input[type='text'] {
+  background: lightgray;
+}
