@@ -128,7 +128,7 @@ sections:
         <a href="https://crankybeeart.com/" target="_blank" title="Click here to visit the Cranky Bee Art website!">Cranky Bee Art</a> specializes in greeting cards for adoption day anniversaries, birthdays, and holidays, as well as creating small moments that make every day special. I'm particularly proud of my "Just Because" series to send to people - well, just because you want to check in and let them know that you're thinking of them.
         
         <div style="text-align:center">
-        <button type="button" style="background-color:#f5f5f5; color:white; padding: 15px 32px; cursor:pointer; border-radius: 15px"><a href="https://crankybeeart.com/" target="_blank" title="Click here to visit the Cranky Bee Art website!">Visit Cranky Bee Art!</a></button>
+        <button type="button"><a href="https://crankybeeart.com/" target="_blank" title="Click here to visit the Cranky Bee Art website!">Visit Cranky Bee Art!</a></button>
         </div>
 
 - block: markdown
@@ -151,21 +151,24 @@ sections:
         
         <img src="avatar-round-png.png" alt="Photo of Christelinda Laureijs" width="300" height="300" style="display: block; margin-left: auto; margin-right: auto; width: 50%">
         
-        <form name="contact" method="POST" data-netlify="true">
-          <p>
-            <label>Your Name<input type="text" name="name" /></label>
-          </p>
-          <p>
-            <label>Your Email <input type="email" name="email" /></label>
-          </p>
-          <p>
-            <label>Message: <textarea name="message"></textarea></label>
-          </p>
-          <p>
-            <button type="submit">Send</button>
-          </p>
-        </form>
+        <div style="display: block; text-align: center">
         
+          <form name="contact" method="POST" data-netlify="true">
+            <p>
+              <label>Your Name<input type="text" name="name" /></label>
+            </p>
+            <p>
+              <label>Your Email <input type="email" name="email" /></label>
+            </p>
+            <p>
+              <label>Message <textarea name="message"></textarea></label>
+            </p>
+            <p>
+              <button type="submit">Send</button>
+            </p>
+          </form>
+        
+        </div>
 
 - block: markdown
   id: cv
