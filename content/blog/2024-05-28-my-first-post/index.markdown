@@ -3,6 +3,7 @@ title: My first post
 authors: ["christelinda"]
 date: '2024-05-28'
 slug: my-first-post
+draft: true
 categories: []
 tags: []
 ---
