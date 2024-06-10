@@ -151,6 +151,21 @@ sections:
         
         <img src="avatar-round-png.png" alt="Photo of Christelinda Laureijs" width="300" height="300" style="display: block; margin-left: auto; margin-right: auto; width: 50%">
         
+        <form name="contact" method="POST" data-netlify="true">
+          <p>
+            <label>Your Name<input type="text" name="name" /></label>
+          </p>
+          <p>
+            <label>Your Email <input type="email" name="email" /></label>
+          </p>
+          <p>
+            <label>Message: <textarea name="message"></textarea></label>
+          </p>
+          <p>
+            <button type="submit">Send</button>
+          </p>
+        </form>
+        
 
 - block: markdown
   id: cv
