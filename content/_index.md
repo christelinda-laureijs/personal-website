@@ -57,7 +57,7 @@ sections:
 - block: markdown
   id: projects
   content:
-      title: Things I've been working on
+      title: Projects
   design:
     background:
       color: white
