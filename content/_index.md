@@ -96,6 +96,7 @@ sections:
         filename: Rat-Laptop.svg
         size: cover
         parallax: false
+        position: center
 
 - block: markdown
   id: art
