@@ -89,7 +89,14 @@ sections:
       text: |
         <h3>Coding Projects</h3>
         
-        <p style="margin-bottom:20rem;">I always have some sort of coding project on the go. I code most frequently in R & RMarkdown, but I also like to build things with LaTeX and HTML. My most recent projects have included creating a reproducible RMarkdown/LaTeX thesis template, coding a website (this one!) and developing R scripts to analyze the recordings that we collect in the lab.</p>
+        <p style="margin-bottom:20rem;">I always have some sort of coding
+        project on the go. I code most frequently in R & RMarkdown, but I also
+        like to build things with LaTeX and HTML. My most recent projects have
+        included creating a reproducible RMarkdown/LaTeX thesis template, coding
+        a website (this one!) and developing R scripts to analyze the recordings
+        that we collect in the lab. I'm currently developing
+        an R package for electrophysiologists to analyze and plot their
+        data!</p>
 
   design:
     background:
