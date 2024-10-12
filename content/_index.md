@@ -33,19 +33,22 @@ sections:
   content:
     title: <h2 class="font-bold tracking-tight" style="font-size:2.7rem; color:black; line-height:125%">I am a researcher, coder, and artist</h2>
     text: | 
-      I am a Master's student working under the supervision of Dr. Karen Crosby at Mount Allison University. My work focuses on the effect of insulin on neurons in the dorsomedial hypothalamus (DMH), which is a brain region critical for appetite regulation.
-      
+      I am a Master's student working under the supervision of Dr. Karen Crosby
+      at Mount Allison University. My work focuses on the effect of insulin on
+      neurons in the dorsomedial hypothalamus (DMH), which is a brain region
+      critical for appetite regulation.
       I aim to answer these questions:
-      
-      1. How does bodyweight and food intake change after insulin is injected into the DMH?
-      2. Does insulin signalling in the DMH affect physiological processes other than appetite regulation, such as energy metabolism or thermoregulation? 
-      3. What signal transduction pathways are activated by insulin binding in the DMH?
-      4. Does insulin signalling in the DMH change in rats who consume high-fat or high-sugar diets?
-      5. How does diabetes affect insulin signalling in the DMH?
-      
-      For my research, I use techniques such as whole-cell patch clamp electrophysiology, stereotaxic surgeries, and behavioural monitoring.
-      
-      After my Master's program, I plan to pursue a PhD and work towards a career in academia.
+      1. How does bodyweight and food intake change after insulin is injected
+      into the DMH? 2. Does insulin signalling in the DMH affect physiological
+      processes other than appetite regulation, such as energy metabolism or
+      thermoregulation? 3. What signal transduction pathways are activated by
+      insulin binding in the DMH? 4. Does insulin signalling in the DMH change
+      in rats who consume high-fat or high-sugar diets? 5. How does diabetes
+      affect insulin signalling in the DMH?
+      For my research, I use techniques such as whole-cell patch clamp
+      electrophysiology, stereotaxic surgeries, and behavioural monitoring.
+      After my Master's program, I plan to pursue a PhD and work towards a
+      career in academia.
       
   design:
     background:
