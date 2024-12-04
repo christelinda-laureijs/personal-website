@@ -8,8 +8,10 @@ sections:
   id: hero
   content:
     text: |
-     <p class="mt-6 leading-8" style="font-size:1.6rem; color:black">MSc. Student (Biology) at Mount Allison University</p>
-    title: <h1 class="font-bold tracking-tight" style="font-size:4rem; color:black">Christelinda Laureijs</h1>
+     <p class="mt-6 leading-8" style="font-size:1.6rem; color:black">MSc.
+     Student (Biology) at Mount Allison University</p>
+    title: <h1 class="font-bold tracking-tight" style="font-size:4rem;
+    color:black">Christelinda Laureijs</h1>
   design:
     background:
       image:
@@ -31,7 +33,8 @@ sections:
 - block: markdown
   id: intro
   content:
-    title: <h2 class="font-bold tracking-tight" style="font-size:2.7rem; color:black; line-height:125%">I am a researcher, coder, and artist</h2>
+    title: <h2 class="font-bold tracking-tight" style="font-size:2.7rem;
+    color:black; line-height:125%">I am a researcher, coder, and artist</h2>
     text: | 
       I am a Master's student working under the supervision of Dr. Karen Crosby
       at Mount Allison University. My work focuses on the effect of insulin on
