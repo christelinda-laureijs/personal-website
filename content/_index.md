@@ -10,8 +10,7 @@ sections:
     text: |
      <p class="mt-6 leading-8" style="font-size:1.6rem; color:black">MSc.
      Student (Biology) at Mount Allison University</p>
-    title: <h1 class="font-bold tracking-tight" style="font-size:4rem;
-    color:black">Christelinda Laureijs</h1>
+    title: <h1 class="font-bold tracking-tight" style="font-size:4rem; color:black">Christelinda Laureijs</h1>
   design:
     background:
       image:
@@ -33,8 +32,7 @@ sections:
 - block: markdown
   id: intro
   content:
-    title: <h2 class="font-bold tracking-tight" style="font-size:2.7rem;
-    color:black; line-height:125%">I am a researcher, coder, and artist</h2>
+    title: <h2 class="font-bold tracking-tight" style="font-size:2.7rem; color:black; line-height:125%">I am a researcher, coder, and artist</h2>
     text: | 
       I am a Master's student working under the supervision of Dr. Karen Crosby
       at Mount Allison University. My work focuses on the effect of insulin on
@@ -112,9 +110,8 @@ sections:
         like to build things with LaTeX and HTML. My most recent projects have
         included creating a reproducible RMarkdown/LaTeX thesis template, coding
         a website (this one!) and developing R scripts to analyze the recordings
-        that we collect in the lab. I'm currently developing
-        an R package for electrophysiologists to analyze and plot their
-        data!</p>
+        that we collect in the lab. I also developed an R package for
+        electrophysiologists to analyze and plot their data (see below!)</p>
 
   design:
     background:
@@ -123,6 +120,20 @@ sections:
         size: cover
         parallax: false
         position: center
+
+- block: markdown
+  id: package
+  content:
+      text: |
+        <h3>patchclampplotteR</h3>
+        
+        <p style="margin-bottom:1rem;">I recently released my first R package!
+        patchclampplotteR allows patch clamp electrophysiologists to efficiently
+        analyze, process, and plot their data. The package contains lots of flexibility
+        to customize publication-quality plots and it also contains tutorials for common
+        analyses in Clampfit. The package is completely free and open source, and you can learn more on the <a href="https://christelinda-laureijs.github.io/patchclampplotteR/index.html" target="_blank" title="patchclampplotteR-homepage">the patchclampplotteR website</a>.</p>
+        
+        <a href="https://christelinda-laureijs.github.io/patchclampplotteR/index.html" target="_blank"><img src="patchclampplotteR-logo.png" alt="A hexagon with a neuron inside it. There are two probes poking into the neuron and the word patchclampplotteR above it" width="300" height="300" style="display: block; margin-bottem:1rem; margin-left: auto; margin-right: auto; width: 50%"></a>
 
 - block: markdown
   id: art
