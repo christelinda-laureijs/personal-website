@@ -8,8 +8,7 @@ sections:
   id: hero
   content:
     text: |
-     <p class="mt-6 leading-8" style="font-size:1.6rem; color:black">MSc.
-     Student (Biology) at Mount Allison University</p>
+     <p class="mt-6 leading-8" style="font-size:1.6rem; color:black">Research Assistant at Mount Allison University</p>
     title: <h1 class="font-bold tracking-tight" style="font-size:4rem; color:black">Christelinda Laureijs</h1>
   design:
     background:
@@ -34,12 +33,12 @@ sections:
   content:
     title: <h2 class="font-bold tracking-tight" style="font-size:2.7rem; color:black; line-height:125%">I am a researcher, coder, and artist</h2>
     text: | 
-      I am a Master's student working under the supervision of Dr. Karen Crosby
-      at Mount Allison University. My work focuses on the effect of insulin on
-      neurons in the dorsomedial hypothalamus (DMH), which is a brain region
-      critical for appetite regulation.
+      I am a research assistant working under the supervision of Dr. Karen Crosby
+      at Mount Allison University. My recent Master's work focuses on the effect 
+      of insulin on neurons in the dorsomedial hypothalamus (DMH), 
+      which is a brain region critical for appetite regulation.
       
-      I aim to answer these questions:
+      I aimed to answer these questions:
       
       1. How does bodyweight and food intake change after insulin is injected
       into the DMH?
@@ -62,6 +61,10 @@ sections:
       electrophysiology, stereotaxic surgeries, and behavioural monitoring.
       After my Master's program, I plan to pursue a PhD and work towards a
       career in academia.
+      
+      Please contact me if you'd like to read my thesis! You can also read part of
+      my work in the article <a href="https://doi.org/10.1152/jn.00515.2025" target="_blank" title="Read the article!">Insulin decreases glutamate signaling in the rat dorsomedial hypothalamus through insulin receptors and insulin-like growth factor 1 receptors</a>, which we published in the Journal of 
+      Neurophysiology!
       
   design:
     background:
